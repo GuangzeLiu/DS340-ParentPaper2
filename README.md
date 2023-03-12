@@ -3,8 +3,7 @@
 
 
 > Citations of the data
->
-@ misc{house-prices-advanced-regression-techniques,
+> @ misc{house-prices-advanced-regression-techniques,
     author = {Anna Montoya, DataCanary},
     title = {House Prices - Advanced Regression Techniques},
     publisher = {Kaggle},
