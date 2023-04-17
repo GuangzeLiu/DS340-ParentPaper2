@@ -12,7 +12,8 @@
     url = {https://kaggle.com/competitions/house-prices-advanced-regression-techniques}
 }
 
-Parent Paper data{Housing price in Beijing,
+- Parent Paper data
+@ misc {Housing price in Beijing,
     author = {RUIQURM},
     title = {Housing price in Beijing},
     publisher = {Kaggle},
@@ -20,7 +21,8 @@ Parent Paper data{Housing price in Beijing,
     url = {https://www.kaggle.com/datasets/ruiqurm/lianjia}
 }
 
-Parent Paper code{Housing Price Prediction with Improved ML Techs,
+- Parent Paper code
+@ misc{Housing Price Prediction with Improved ML Techs,
     author = {MUHAMMAD},
     title = {Housing Price Prediction with Improved ML Techs},
     publisher = {Kaggle},
